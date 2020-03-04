@@ -1,0 +1,30 @@
+Cantidad,Name,,Footprint,,URL
+,,,,,
+,"PCB 45.72 x 33,02",,,,
+,,,,,
+1,MCU ATmega2560-16AU,,U1,,https://lcsc.com/product-detail/ATMEL-AVR_Microchip-Tech-ATMEGA2560-16AU_C22460.html
+1,Cristal Osc. 16MHz HC-49S_L11.4-W4.8 C16000J119,,X1,,https://lcsc.com/product-detail/SMD-Crystal-Resonators_ECEC-ZheJiang-E-ast-Crystal-Elec-C16000J119_C259047.html
+,,,,,
+2,Resistencia SMD R0402 5K6,,"R1, R2",,
+1,Resistencia SMD R0402 10K,,R3,,
+5,Resistencia SMD R0402 1K,,"R4, R5, R6, R6, R7, R8",,
+2,Resistencia SMD R0402 R220,,"R9, R10",,
+1,Resistencia SMD R0402 R150,,R11,,
+,,,,,
+2,Condensador Ceramic SMD C0402 22pF,,"C11, C12",,
+4,Condensador Ceramic SMD C0402 100nF,,"C7, C8, C9, C10",,
+2,Condensador Ceramic SMD C0402 1uF,,"C5, C6",,
+,,,,,
+4,Condensador Elect. SMD CAP-D4.0XH5.5,,"C1, C2, C3, C4",,
+,,,,,
+1,LED Rojo SMD 0603,,PWRL,,https://lcsc.com/products/Light-Emitting-Diodes-LED_528.html?q=led%200603
+1,LED Verde SMD 0603,,RX,,https://lcsc.com/products/Light-Emitting-Diodes-LED_528.html?q=led%200603
+1,LED Rojo SMD 0603,,TX,,https://lcsc.com/products/Light-Emitting-Diodes-LED_528.html?q=led%200603
+,,,,,
+1,AMS1117 3.3V SOT-223,,U3,,
+1,AMS1117 5V SOT-223,,U2,,
+,,,,,
+65,"PINs Dupon 2,54",,"H0, H1, H2, H3, H4, H5, H6, J1, J2, PWR",,
+,,,,,
+1,Interruptor deslizante SS23D32 2P2T DPDT,,J2,,https://lcsc.com/products/Toggle-Switches_854.html?q=DPDT
+1,Reset SW C174049,,U4,,https://lcsc.com/product-detail/Tactile-Switches_BOOMELE-Boom-Precision-Elec-C174049_C174049.html
